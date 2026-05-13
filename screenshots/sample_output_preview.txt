@@ -1,0 +1,11 @@
+# Multi-Agent Academic Research Assistant
+
+## Problem
+The goal of this system is to help a student complete a research task by splitting the work across specialized AI agents instead of relying on one general chatbot.
+
+## Important Ideas Applied
+- Agent architecture
+- Provider-agnostic design
+- Tool calling and hooks
+- Cost tracking and reproducibility
+- Subagents

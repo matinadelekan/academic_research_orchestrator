@@ -1,0 +1,23 @@
+[
+  {
+    "id": "paper1",
+    "title": "Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG",
+    "authors": "Survey Authors",
+    "year": 2025,
+    "text": "Agentic RAG extends retrieval augmented generation by allowing agents to plan, use tools, search external memory, reflect on answers, and coordinate multiple steps. Multi-agent RAG systems can divide research into retrieval, reasoning, verification, and writing."
+  },
+  {
+    "id": "paper2",
+    "title": "Orchestral AI: A Framework for Agent Orchestration",
+    "authors": "Roman and Roman",
+    "year": 2026,
+    "text": "Orchestral AI introduces a lightweight Python framework for orchestrating LLM agents. Important ideas include provider agnostic design, unified messages, tool calling, hooks, subagents, memory management, sandboxing, reproducibility, and cost tracking."
+  },
+  {
+    "id": "paper3",
+    "title": "Multi-Agent Systems for Academic Research Assistance",
+    "authors": "Example Research Group",
+    "year": 2024,
+    "text": "Academic research assistants can benefit from specialized agents. One agent can retrieve sources, another can summarize findings, another can check citations, and another can draft the final answer for a student."
+  }
+]
